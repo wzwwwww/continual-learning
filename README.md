@@ -39,3 +39,8 @@
         <td>2022</td>
         <td>none</td>
     </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Davari_Probing_Representation_Forgetting_in_Supervised_and_Unsupervised_Continual_Learning_CVPR_2022_paper.pdf">Probing Representation Forgetting in Supervised and Unsupervised Continual Learning</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/rezazzr/Probing-Representation-Forgetting">github</a></td>
+    </tr>
