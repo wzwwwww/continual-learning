@@ -65,3 +65,28 @@ via Elastic Response Distillation</a></td>
         <td>2022</td>
         <td><a href="https://github.com/Hi-FT/ERD">github</a></td>
     </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Fini_Self-Supervised_Models_Are_Continual_Learners_CVPR_2022_paper.pdf">Self-Supervised Models are Continual Learners</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/DonkeyShot21/cassle">github</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Not_Just_Selection_but_Exploration_Online_Class-Incremental_Continual_Learning_via_CVPR_2022_paper.pdf">Not Just Selection, but Exploration: Online Class-Incremental Continual Learning via Dual View Consistency</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/YananGu/DVC">github</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf">Constrained Few-shot Class-incremental Learning</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/IBM/constrained-FSCIL">github</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Lifelong_Unsupervised_Domain_Adaptive_Person_Re-Identification_With_Coordinated_Anti-Forgetting_and_CVPR_2022_paper.pdf">Lifelong Unsupervised Domain Adaptive Person Re-identification with Coordinated Anti-forgetting and Adaptation</a></td>
+        <td>2022</td>
+        <td>none</td>
+    </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Joseph_Energy-Based_Latent_Aligner_for_Incremental_Learning_CVPR_2022_paper.pdf">Energy-based Latent Aligner for Incremental Learning</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/JosephKJ/ELI">github</a></td>
+    </tr>
