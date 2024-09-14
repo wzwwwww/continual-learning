@@ -59,3 +59,9 @@
         <td>2022</td>
         <td>none</td>
     </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf">Overcoming Catastrophic Forgetting in Incremental Object Detection
+via Elastic Response Distillation</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/Hi-FT/ERD">github</a></td>
+    </tr>
