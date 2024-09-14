@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr>
-        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Bang_Online_Continual_Learning_on_a_Contaminated_Data_Stream_With_Blurry_CVPR_2022_paper.html">SCOPE: Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries</a></td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Bang_Online_Continual_Learning_on_a_Contaminated_Data_Stream_With_Blurry_CVPR_2022_paper.html">Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries</a></td>
         <td>2022</td>
         <td>CVPR</td>
         <td>None</td>
