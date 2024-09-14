@@ -49,3 +49,8 @@
         <td>2022</td>
         <td><a href="https://github.com/conditionWang/FCIL">github</a></td>
     </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Douillard_DyTox_Transformers_for_Continual_Learning_With_DYnamic_TOken_eXpansion_CVPR_2022_paper.pdf">DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/arthurdouillard/dytox">github</a></td>
+    </tr>
