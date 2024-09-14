@@ -95,9 +95,14 @@ via Elastic Response Distillation</a></td>
         <td>2022</td>
         <td><a href="https://github.com/kminsoo/AFC">github</a></td>
     </tr>
-        <tr>
+    <tr>
         <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Towards_Better_Plasticity-Stability_Trade-Off_in_Incremental_Learning_A_Simple_Linear_CVPR_2022_paper.pdf">Towards Better Plasticity-Stability Trade-off in Incremental Learning: A Simple
 Linear Connector</a></td>
         <td>2022</td>
         <td><a href="https://github.com/lingl1024/Connector">github</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_INS-Conv_Incremental_Sparse_Convolution_for_Online_3D_Segmentation_CVPR_2022_paper.pdf">INS-Conv: Incremental Sparse Convolution for Online 3D Segmentation</a></td>
+        <td>2022</td>
+        <td><a href=": https://github.com/THU-luvision/INS-Conv">github</a></td>
     </tr>
