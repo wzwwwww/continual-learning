@@ -37,5 +37,5 @@
     <tr>
         <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf">MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning</a></td>
         <td>2022</td>
-        <td><a href="https://github.com/clovaai/puridiver">github</a></td>
+        <td>none</td>
     </tr>
