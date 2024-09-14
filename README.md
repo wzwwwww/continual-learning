@@ -15,7 +15,13 @@
   </thead>
   <tbody>
     <tr>
-        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Bang_Online_Continual_Learning_on_a_Contaminated_Data_Stream_With_Blurry_CVPR_2022_paper.html">Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries</a></td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Bang_Online_Continual_Learning_on_a_Contaminated_Data_Stream_With_Blurry_CVPR_2022_paper.html">Online Continual           Learning on a Contaminated Data Stream with Blurry Task Boundaries</a></td>
         <td>2022</td>
-        <td><a href="https://github.com/clovaai/puridiver">github</td>
+        <td><a href="https://github.com/clovaai/puridiver">github</a></td>
+    </tr>
+    <tbody>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.html">Doodle It Yourself:             Class Incremental Learning by Drawing a Few Sketches</a></td>
+        <td>2022</td>
+        <td>none</td>
     </tr>
