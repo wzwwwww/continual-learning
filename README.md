@@ -54,3 +54,8 @@
         <td>2022</td>
         <td><a href="https://github.com/arthurdouillard/dytox">github</a></td>
     </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_Incremental_Cross-View_Mutual_Distillation_for_Self-Supervised_Medical_CT_Synthesis_CVPR_2022_paper.pdf">Incremental Cross-view Mutual Distillation for Self-supervised Medical CT Synthesis</a></td>
+        <td>2022</td>
+        <td>none</td>
+    </tr>
