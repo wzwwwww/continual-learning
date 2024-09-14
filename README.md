@@ -90,3 +90,14 @@ via Elastic Response Distillation</a></td>
         <td>2022</td>
         <td><a href="https://github.com/JosephKJ/ELI">github</a></td>
     </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Class-Incremental_Learning_by_Knowledge_Distillation_With_Adaptive_Feature_Consolidation_CVPR_2022_paper.pdf">Class-Incremental Learning by Knowledge Distillation with Adaptive Feature Consolidation</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/kminsoo/AFC">github</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Towards_Better_Plasticity-Stability_Trade-Off_in_Incremental_Learning_A_Simple_Linear_CVPR_2022_paper.pdf">Towards Better Plasticity-Stability Trade-off in Incremental Learning: A Simple
+Linear Connector</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/lingl1024/Connector">github</a></td>
+    </tr>
