@@ -44,3 +44,8 @@
         <td>2022</td>
         <td><a href="https://github.com/rezazzr/Probing-Representation-Forgetting">github</a></td>
     </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.pdf">Federated Class-Incremental Learning</a></td>
+        <td>2022</td>
+        <td><a href="https://github.com/conditionWang/FCIL">github</a></td>
+    </tr>
