@@ -104,5 +104,5 @@ Linear Connector</a></td>
     <tr>
         <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_INS-Conv_Incremental_Sparse_Convolution_for_Online_3D_Segmentation_CVPR_2022_paper.pdf">INS-Conv: Incremental Sparse Convolution for Online 3D Segmentation</a></td>
         <td>2022</td>
-        <td><a href=": https://github.com/THU-luvision/INS-Conv">github</a></td>
+        <td><a href="https://github.com/THU-luvision/INS-Conv">github</a></td>
     </tr>
