@@ -32,5 +32,5 @@
     <tr>
         <td><a href="https://openaccess.thecvf.com/content/CVPR2022/supplemental/Chen_Few-Shot_Incremental_Learning_CVPR_2022_supplemental.pdf">Few-Shot Incremental Learning for Label-to-Image Translation</a></td>
         <td>2022</td>
-        <td><a href="https://github.com/fcdl94/WILSON">github</a></td>
+        <td>none</td>
     </tr>
